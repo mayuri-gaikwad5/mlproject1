@@ -61,7 +61,7 @@ The project is divided into several modular components:
 ├── templates/              # HTML files for the Flask web app
 ├── app.py                  # Flask application entry point
 └── requirements.txt        # Project dependencies
-
+```
 ## 🚀 Getting Started
 # 1. Clone the repository
 git clone <repository-url>
